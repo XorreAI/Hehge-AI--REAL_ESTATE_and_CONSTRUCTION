@@ -1,4 +1,8 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-12,11.1,11.1,11.1,11.1,0,0.0,0.0,0.0,0.0,0.0,10.78,10.86,0.08,0.11,-0.03,5094918,50.2,90.0,21.67,1.0,68.33,Weak Buy Signal,11.34,10.78,10.23,0.1,74.06,Overbought,Overvalued,37.62,Strong Trend
+2023-07-11,11.1,11.1,11.1,11.1,0,0.0,0.0,0.0,0.0,0.0,10.77,10.85,0.09,0.12,-0.03,5094918,50.2,91.67,23.33,1.0,68.33,Weak Buy Signal,11.32,10.77,10.22,0.1,74.06,Overbought,Overvalued,37.41,Strong Trend
+2023-07-10,11.1,11.1,11.1,11.1,0,0.0,0.0,0.0,0.0,0.0,10.76,10.84,0.1,0.13,-0.03,5094918,50.2,93.33,25.0,1.0,68.33,Weak Buy Signal,11.31,10.76,10.21,0.1,74.06,Overbought,Overvalued,37.19,Strong Trend
+2023-07-07,11.1,11.1,11.1,11.1,0,0.0,0.0,0.0,0.0,0.0,10.75,10.84,0.11,0.14,-0.02,5094918,50.2,95.0,26.67,1.0,68.33,Weak Buy Signal,11.3,10.75,10.21,0.1,74.06,Overbought,Overvalued,36.97,Strong Trend
 2023-07-06,11.1,11.1,11.1,11.1,0,0.0,0.0,0.0,0.0,0.0,10.74,10.83,0.12,0.14,-0.02,5094918,50.2,96.67,28.33,1.0,68.33,Weak Buy Signal,11.29,10.74,10.2,0.1,74.06,Overbought,Overvalued,36.75,Strong Trend
 2023-07-05,11.1,11.1,11.1,11.1,100,0.0,0.0,0.0,0.0,0.0,10.73,10.82,0.14,0.15,-0.01,5094918,50.2,98.33,30.0,1.0,68.33,Weak Buy Signal,11.27,10.73,10.2,0.1,74.06,Overbought,Overvalued,36.52,Strong Trend
 2023-07-03,11.24,11.24,11.24,11.24,0,0.0,0.0,0.0,0.0,0.0,10.73,10.81,0.16,0.15,0.01,5095018,73.34,100.0,31.67,1.0,68.33,Weak Buy Signal,11.25,10.73,10.2,0.1,87.3,Overbought,Overvalued,36.29,Strong Trend
@@ -95,7 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-02-21,10.39,10.39,10.39,10.39,0,0.0,0.0,0.0,0.0,0.0,10.43,10.44,-0.05,-0.03,-0.02,5089168,4.84,78.33,18.33,1.0,60.0,Weak Buy Signal,10.89,10.43,9.97,0.09,53.11,Target Volume,Expected Range,22.0,Absent or Weak Trend
 2023-02-17,10.39,10.39,10.39,10.39,0,0.0,0.0,0.0,0.0,0.0,10.43,10.44,-0.05,-0.02,-0.03,5089168,4.84,80.0,20.0,1.0,60.0,Weak Buy Signal,10.89,10.43,9.96,0.09,53.11,Target Volume,Expected Range,22.29,Absent or Weak Trend
 2023-02-16,10.39,10.39,10.39,10.39,0,0.0,0.0,0.0,0.0,0.0,10.42,10.44,-0.05,-0.02,-0.03,5089168,4.84,81.67,21.67,1.0,60.0,Weak Buy Signal,10.89,10.42,9.95,0.09,53.11,Target Volume,Expected Range,22.58,Absent or Weak Trend
-2023-02-15,10.39,10.39,10.39,10.39,0,0.0,0.0,0.0,0.0,0.0,10.42,10.44,-0.05,-0.01,-0.04,5089168,4.84,83.33,23.33,1.0,60.0,Weak Buy Signal,10.89,10.42,9.95,0.09,53.11,Target Volume,Expected Range,22.88,Absent or Weak Trend
-2023-02-14,10.39,10.39,10.39,10.39,0,0.0,0.0,0.0,0.0,0.0,10.42,10.44,-0.04,0.0,-0.05,5089168,4.84,85.0,25.0,1.0,60.0,Weak Buy Signal,10.89,10.42,9.94,0.09,53.11,Target Volume,Expected Range,23.19,Absent or Weak Trend
-2023-02-13,10.39,10.39,10.39,10.39,0,0.0,0.0,0.0,0.0,0.0,10.41,10.45,-0.04,0.01,-0.05,5089168,4.84,86.67,26.67,1.0,60.0,Weak Buy Signal,10.89,10.41,9.94,0.09,53.11,Target Volume,Expected Range,23.5,Absent or Weak Trend
-2023-02-10,10.39,10.39,10.39,10.39,0,0.0,0.0,0.0,0.0,0.0,10.41,10.45,-0.03,0.03,-0.06,5089168,4.84,88.33,28.33,1.0,60.0,Weak Buy Signal,10.89,10.41,9.93,0.09,53.11,Target Volume,Expected Range,23.82,Absent or Weak Trend
