@@ -1,4 +1,8 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-12,10.26,10.26,10.26,10.26,2,0.0,0.0,0.0,0.0,0.0,10.21,10.21,0.01,0.01,-0.0,444361,87.14,46.67,6.67,1.0,40.0,Weak Buy Signal,10.3,10.21,10.12,0.02,65.05,Trending Low,Bearish Trend,,
+2023-07-11,10.26,10.26,10.26,10.26,0,0.0,0.0,0.0,0.0,0.0,10.21,10.21,0.01,0.01,-0.0,444361,87.14,0.0,8.33,-1.0,-8.33,High Volatility / Hold Signal,10.3,10.21,10.12,0.02,65.05,Trending Low,Bearish Trend,,
+2023-07-10,10.26,10.26,10.26,10.26,0,0.0,0.0,0.0,0.0,0.0,10.2,10.2,0.01,0.02,-0.0,444361,87.14,1.67,10.0,-1.0,-8.33,High Volatility / Hold Signal,10.29,10.2,10.12,0.02,65.05,Trending Low,Bearish Trend,,
+2023-07-07,10.26,10.26,10.26,10.26,0,0.0,0.0,0.0,0.0,0.0,10.2,10.2,0.01,0.02,-0.0,444361,87.14,0.0,0.0,-1.0,0.0,High Volatility / Hold Signal,10.29,10.2,10.11,0.02,65.05,Trending Low,Bearish Trend,,
 2023-07-06,10.26,10.26,10.26,10.26,0,0.0,0.0,0.0,0.0,0.0,10.2,10.2,0.01,0.02,-0.0,444361,87.14,1.67,1.67,-1.0,0.0,High Volatility / Hold Signal,10.29,10.2,10.11,0.02,65.05,Trending Low,Bearish Trend,,
 2023-07-05,10.27,10.27,10.26,10.26,338,-0.01,0.01,-0.13,0.13,0.01,10.2,10.2,0.02,0.02,-0.0,444361,87.14,3.33,3.33,-1.0,0.0,High Volatility / Hold Signal,10.29,10.2,10.11,0.02,65.05,Trending Low,Bearish Trend,,
 2023-07-03,10.26,10.26,10.26,10.26,0,0.0,0.0,0.0,0.0,0.0,10.2,10.2,0.02,0.02,-0.0,444699,87.0,5.0,5.0,-1.0,0.0,High Volatility / Hold Signal,10.29,10.2,10.1,0.02,65.07,Trending Low,Bearish Trend,,
