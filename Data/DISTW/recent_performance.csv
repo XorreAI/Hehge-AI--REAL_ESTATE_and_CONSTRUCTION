@@ -1,4 +1,8 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-13,0.06,0.25,0.06,0.08,21132,0.02,0.19,27.8,228.64,0.1,0.03,0.03,0.01,0.0,0.01,332392,46.27,100.0,33.33,1.0,66.67,Weak Buy Signal,0.05,0.03,0.0,1.92,55.4,Target Volume,Expected Range,,
+2023-07-12,0.09,0.09,0.07,0.09,5332,0.0,0.02,2.22,25.11,0.01,0.03,0.03,0.01,0.0,0.0,353524,10.84,100.0,35.0,1.0,65.0,Weak Buy Signal,0.05,0.03,0.0,1.68,57.23,Target Volume,Expected Range,,
+2023-07-11,0.03,0.04,0.03,0.04,10354,0.0,0.0,10.57,10.86,0.0,0.03,0.03,0.0,0.0,0.0,348192,15.49,8.33,36.67,-1.0,-28.33,Weak Sell Signal,0.04,0.03,0.01,1.25,42.23,Target Volume,Expected Range,,
+2023-07-10,0.02,0.02,0.02,0.02,233,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,-0.0,337838,24.06,10.0,38.33,-1.0,-28.33,Weak Sell Signal,0.04,0.03,0.01,1.26,37.02,Trending High,Bullish Trend,,
 2023-07-07,0.02,0.02,0.02,0.02,326,0.0,0.0,0.0,7.8,0.0,0.03,0.03,0.0,0.0,0.0,337838,24.06,0.0,40.0,-1.0,-40.0,Weak Sell Signal,0.04,0.03,0.01,1.29,37.02,Trending High,Bullish Trend,,
 2023-07-06,0.03,0.03,0.03,0.03,191,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,0.0,338164,20.01,1.67,41.67,-1.0,-40.0,Weak Sell Signal,0.04,0.03,0.01,1.29,39.01,Trending High,Bullish Trend,,
 2023-07-05,0.03,0.03,0.03,0.03,151,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,0.0,338164,20.01,3.33,43.33,-1.0,-40.0,Weak Sell Signal,0.05,0.03,0.01,1.32,39.01,Trending High,Bullish Trend,,
