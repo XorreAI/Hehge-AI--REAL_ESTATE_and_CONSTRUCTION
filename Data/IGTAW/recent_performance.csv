@@ -1,4 +1,9 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-21,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,-0.0,3062313,13.43,58.33,53.33,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,50.02,Target Volume,Expected Range,29.84,Strong Trend
+2023-07-20,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,-0.0,3062313,13.43,60.0,55.0,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,50.02,Target Volume,Expected Range,30.12,Strong Trend
+2023-07-19,0.04,0.04,0.04,0.04,2100,-0.0,0.0,-0.27,4.1,0.0,0.03,0.03,0.0,0.0,-0.0,3062313,13.43,61.67,56.67,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,50.02,Target Volume,Expected Range,30.4,Strong Trend
+2023-07-18,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,-0.0,3064413,15.61,63.33,58.33,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,51.22,Target Volume,Expected Range,30.69,Strong Trend
+2023-07-17,0.04,0.04,0.04,0.04,108,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,-0.0,3064413,15.61,65.0,60.0,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,51.22,Target Volume,Expected Range,30.95,Strong Trend
 2023-07-14,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,-0.0,3064413,15.61,66.67,61.67,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,51.22,Target Volume,Expected Range,31.21,Strong Trend
 2023-07-13,0.05,0.05,0.04,0.04,1600,-0.01,0.01,-25.31,25.31,0.01,0.03,0.03,0.0,0.0,-0.0,3064413,15.61,68.33,63.33,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,51.22,Target Volume,Expected Range,31.47,Strong Trend
 2023-07-12,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.0,-0.0,3066013,18.92,70.0,65.0,1.0,5.0,High Volatility / Hold Signal,0.05,0.03,0.01,1.53,53.05,Target Volume,Expected Range,31.74,Strong Trend
@@ -94,8 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-03-02,0.04,0.04,0.03,0.03,46650,-0.0,0.01,-4.79,24.55,0.0,0.03,0.04,-0.0,0.0,-0.0,2261852,31.13,90.0,55.0,1.0,35.0,Weak Buy Signal,0.05,0.03,0.02,0.67,38.49,Trending High,Bullish Trend,45.12,Strong Trend
 2023-03-01,0.03,0.03,0.03,0.03,0,0.0,0.0,0.0,0.0,0.0,0.03,0.04,-0.0,0.0,-0.0,2215202,43.41,91.67,56.67,1.0,35.0,Weak Buy Signal,0.05,0.03,0.02,0.68,37.91,Trending High,Bullish Trend,45.36,Strong Trend
 2023-02-28,0.03,0.03,0.03,0.03,0,0.0,0.0,0.0,0.0,0.0,0.03,0.04,-0.0,0.0,-0.0,2215202,43.41,93.33,58.33,1.0,35.0,Weak Buy Signal,0.05,0.03,0.02,0.68,37.91,Trending High,Bullish Trend,45.39,Strong Trend
-2023-02-27,0.04,0.04,0.03,0.03,25150,-0.0,0.0,-7.69,7.69,0.0,0.03,0.04,0.0,0.0,-0.0,2215202,43.41,95.0,60.0,1.0,35.0,Weak Buy Signal,0.05,0.03,0.02,0.68,37.91,Trending High,Bullish Trend,45.42,Strong Trend
-2023-02-24,0.04,0.04,0.03,0.03,2700,-0.01,0.01,-21.93,21.93,0.0,0.03,0.04,0.0,0.0,-0.0,2190052,43.41,96.67,61.67,1.0,35.0,Weak Buy Signal,0.05,0.03,0.02,0.68,36.26,Trending High,Bullish Trend,45.46,Strong Trend
-2023-02-23,0.04,0.04,0.03,0.03,2560,-0.0,0.0,-2.94,10.0,0.0,0.03,0.04,0.0,0.0,-0.0,2192752,41.16,98.33,63.33,1.0,35.0,Weak Buy Signal,0.05,0.03,0.02,0.68,37.83,Trending High,Bullish Trend,45.49,Strong Trend
-2023-02-22,0.04,0.04,0.03,0.03,26140,-0.0,0.01,-13.35,29.19,0.0,0.03,0.04,0.0,0.0,0.0,2190192,41.16,100.0,65.0,1.0,35.0,Weak Buy Signal,0.05,0.03,0.02,0.68,36.58,Trending High,Bullish Trend,45.57,Strong Trend
-2023-02-21,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.03,0.04,0.0,0.0,0.0,2216332,38.0,0.0,66.67,-1.0,-66.67,Weak Sell Signal,0.05,0.03,0.02,0.67,38.8,Trending High,Bullish Trend,45.64,Strong Trend
