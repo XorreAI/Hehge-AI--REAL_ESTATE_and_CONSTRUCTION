@@ -1,4 +1,10 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-24,10.38,10.38,10.38,10.38,0,0.0,0.0,0.0,0.0,0.0,10.33,10.32,0.01,0.01,-0.0,9954,61.71,15.0,3.33,1.0,11.67,High Volatility / Hold Signal,10.48,10.33,10.18,0.03,58.75,Target Volume,Expected Range,,
+2023-07-21,10.38,10.38,10.38,10.38,447,0.0,0.0,0.0,0.0,0.0,10.33,10.32,0.01,0.01,-0.0,9954,61.71,16.67,5.0,1.0,11.67,High Volatility / Hold Signal,10.48,10.33,10.18,0.03,58.75,Target Volume,Expected Range,,
+2023-07-20,10.37,10.37,10.37,10.37,213,0.0,0.0,0.0,0.0,0.0,10.32,10.32,0.01,0.01,-0.0,9507,61.46,18.33,6.67,1.0,11.67,High Volatility / Hold Signal,10.48,10.32,10.17,0.03,58.23,Target Volume,Expected Range,,
+2023-07-19,10.38,10.38,10.38,10.38,0,0.0,0.0,0.0,0.0,0.0,10.32,10.32,0.01,0.01,-0.0,9720,62.22,20.0,8.33,1.0,11.67,High Volatility / Hold Signal,10.48,10.32,10.16,0.03,58.77,Target Volume,Expected Range,,
+2023-07-18,10.38,10.38,10.38,10.38,388,0.0,0.0,0.0,0.0,0.0,10.32,10.32,0.01,0.01,-0.01,9720,62.22,21.67,10.0,1.0,11.67,High Volatility / Hold Signal,10.48,10.32,10.16,0.03,58.77,Target Volume,Expected Range,,
+2023-07-17,10.37,10.37,10.36,10.36,1564,-0.01,0.01,-0.1,0.1,0.0,10.31,10.31,0.01,0.01,-0.01,9332,62.05,23.33,11.67,1.0,11.67,High Volatility / Hold Signal,10.48,10.31,10.15,0.03,57.88,Target Volume,Expected Range,,
 2023-07-14,10.37,10.37,10.37,10.37,1,0.0,0.0,0.0,0.0,0.0,10.31,10.31,0.01,0.02,-0.01,10896,63.05,25.0,13.33,1.0,11.67,High Volatility / Hold Signal,10.48,10.31,10.15,0.03,58.6,Target Volume,Expected Range,,
 2023-07-13,10.37,10.37,10.37,10.37,1012,0.0,0.0,0.0,0.0,0.0,10.31,10.31,0.01,0.02,-0.01,10896,63.05,26.67,15.0,1.0,11.67,High Volatility / Hold Signal,10.48,10.31,10.14,0.03,58.6,Target Volume,Expected Range,,
 2023-07-12,10.37,10.37,10.37,10.37,22353,-0.0,0.0,-0.0,0.0,0.0,10.31,10.31,0.01,0.02,-0.01,10896,63.05,28.33,0.0,1.0,28.33,Weak Buy Signal,10.47,10.31,10.14,0.03,58.6,Target Volume,Expected Range,,
