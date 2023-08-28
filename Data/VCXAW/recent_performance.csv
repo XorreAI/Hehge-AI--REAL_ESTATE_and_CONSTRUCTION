@@ -1,4 +1,9 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-25,0.07,0.07,0.07,0.07,169,0.0,0.0,0.0,0.0,0.0,0.07,0.08,-0.0,-0.0,0.0,417834,23.87,6.67,28.33,-1.0,-21.67,Weak Sell Signal,0.1,0.07,0.05,0.63,46.62,Target Volume,Expected Range,26.67,Strong Trend
+2023-08-24,0.08,0.08,0.08,0.08,0,0.0,0.0,0.0,0.0,0.0,0.07,0.08,0.0,-0.0,0.0,418003,21.44,8.33,30.0,-1.0,-21.67,Weak Sell Signal,0.1,0.07,0.05,0.65,48.29,Target Volume,Expected Range,26.72,Strong Trend
+2023-08-23,0.07,0.09,0.06,0.08,2680,0.01,0.03,8.15,38.5,0.01,0.07,0.08,-0.0,-0.0,0.0,418003,21.44,10.0,31.67,-1.0,-21.67,Weak Sell Signal,0.1,0.07,0.05,0.67,48.29,Target Volume,Expected Range,26.81,Strong Trend
+2023-08-22,0.06,0.07,0.06,0.07,680,0.01,0.01,13.71,13.71,0.0,0.08,0.08,-0.0,-0.0,0.0,415323,31.19,11.67,33.33,-1.0,-21.67,Weak Sell Signal,0.1,0.08,0.05,0.69,47.02,Target Volume,Expected Range,26.9,Strong Trend
+2023-08-21,0.06,0.07,0.06,0.07,12208,0.0,0.01,1.97,9.1,0.0,0.08,0.08,-0.0,-0.0,0.0,414643,30.24,13.33,35.0,-1.0,-21.67,Weak Sell Signal,0.1,0.08,0.05,0.7,46.14,Target Volume,Expected Range,26.83,Strong Trend
 2023-08-18,0.06,0.07,0.06,0.07,550,0.01,0.01,8.57,8.57,0.0,0.08,0.08,-0.0,-0.0,0.0,426851,30.24,15.0,36.67,-1.0,-21.67,Weak Sell Signal,0.1,0.08,0.05,0.71,46.91,Target Volume,Expected Range,26.77,Strong Trend
 2023-08-17,0.06,0.07,0.06,0.07,585,0.01,0.01,8.57,8.57,0.0,0.08,0.08,-0.0,-0.0,0.0,426851,30.24,16.67,38.33,-1.0,-21.67,Weak Sell Signal,0.1,0.08,0.05,0.73,46.91,Target Volume,Expected Range,26.71,Strong Trend
 2023-08-16,0.07,0.07,0.07,0.07,9846,-0.0,0.0,-2.19,2.19,0.0,0.08,0.08,-0.0,-0.0,-0.0,426266,29.09,18.33,40.0,-1.0,-21.67,Weak Sell Signal,0.11,0.08,0.05,0.73,46.59,Target Volume,Expected Range,26.65,Strong Trend
@@ -94,8 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-04-06,0.13,0.13,0.13,0.13,383,0.0,0.0,0.0,0.0,0.0,0.11,0.11,0.01,0.0,0.0,191916,13.79,96.67,1.67,1.0,95.0,Strong Buy Signal,0.14,0.11,0.08,0.52,52.56,Target Volume,Expected Range,16.27,Absent or Weak Trend
 2023-04-05,0.12,0.14,0.12,0.14,1156,0.02,0.02,17.67,17.67,0.01,0.11,0.11,0.01,0.0,0.0,192299,13.79,98.33,3.33,1.0,95.0,Strong Buy Signal,0.14,0.11,0.08,0.56,53.84,Target Volume,Expected Range,16.31,Absent or Weak Trend
 2023-04-04,0.13,0.14,0.11,0.14,16395,0.01,0.03,10.29,18.86,0.01,0.11,0.1,0.01,0.0,0.0,193455,13.79,100.0,0.0,1.0,100.0,Strong Buy Signal,0.14,0.11,0.08,0.58,53.87,Target Volume,Expected Range,16.36,Absent or Weak Trend
-2023-04-03,0.13,0.13,0.13,0.13,83,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,177060,17.92,100.0,1.67,1.0,98.33,Strong Buy Signal,0.13,0.1,0.07,0.58,52.36,Target Volume,Expected Range,16.4,Absent or Weak Trend
-2023-03-31,0.11,0.13,0.11,0.13,24515,0.01,0.01,10.48,10.48,0.01,0.1,0.1,0.0,0.0,0.0,177060,17.92,100.0,3.33,1.0,96.67,Strong Buy Signal,0.13,0.1,0.07,0.61,52.36,Target Volume,Expected Range,16.37,Absent or Weak Trend
-2023-03-30,0.11,0.12,0.11,0.11,12896,0.0,0.0,0.0,1.5,0.0,0.1,0.1,0.0,0.0,-0.0,152545,15.31,98.33,5.0,1.0,93.33,Strong Buy Signal,0.13,0.1,0.07,0.63,50.78,Target Volume,Expected Range,16.35,Absent or Weak Trend
-2023-03-29,0.11,0.12,0.11,0.12,656,0.01,0.01,5.33,5.33,0.0,0.1,0.1,0.0,0.0,-0.0,165441,15.34,100.0,6.67,1.0,93.33,Strong Buy Signal,0.13,0.1,0.07,0.64,51.59,Target Volume,Expected Range,16.37,Absent or Weak Trend
-2023-03-28,0.11,0.11,0.11,0.11,268,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,-0.0,164785,13.89,86.67,0.0,1.0,86.67,Strong Buy Signal,0.13,0.1,0.07,0.67,50.82,Target Volume,Expected Range,16.38,Absent or Weak Trend
