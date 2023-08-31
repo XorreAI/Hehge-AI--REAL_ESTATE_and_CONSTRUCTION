@@ -1,4 +1,10 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-30,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,-0.0,509420,44.08,5.0,45.0,-1.0,-40.0,Weak Sell Signal,0.05,0.04,0.02,0.87,48.27,Target Volume,Expected Range,43.65,Strong Trend
+2023-08-29,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,-0.0,509420,44.08,6.67,46.67,-1.0,-40.0,Weak Sell Signal,0.05,0.04,0.02,0.92,48.27,Target Volume,Expected Range,43.64,Strong Trend
+2023-08-28,0.04,0.04,0.04,0.04,100,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,509420,44.08,8.33,48.33,-1.0,-40.0,Weak Sell Signal,0.05,0.04,0.02,0.98,48.27,Target Volume,Expected Range,43.63,Strong Trend
+2023-08-25,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,509520,46.72,10.0,50.0,-1.0,-40.0,Weak Sell Signal,0.06,0.04,0.02,1.02,50.04,Target Volume,Expected Range,43.62,Strong Trend
+2023-08-24,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,509520,46.72,11.67,51.67,-1.0,-40.0,Weak Sell Signal,0.06,0.04,0.02,1.06,50.04,Target Volume,Expected Range,43.57,Strong Trend
+2023-08-23,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,509520,46.72,13.33,53.33,-1.0,-40.0,Weak Sell Signal,0.06,0.04,0.02,1.09,50.04,Target Volume,Expected Range,43.52,Strong Trend
 2023-08-22,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,509520,46.72,15.0,55.0,-1.0,-40.0,Weak Sell Signal,0.06,0.04,0.02,1.09,50.04,Target Volume,Expected Range,43.46,Strong Trend
 2023-08-21,0.04,0.04,0.04,0.04,1994,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,509520,46.72,16.67,56.67,-1.0,-40.0,Weak Sell Signal,0.06,0.04,0.02,1.09,50.04,Target Volume,Expected Range,43.41,Strong Trend
 2023-08-18,0.04,0.04,0.04,0.04,0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,507526,46.0,18.33,58.33,-1.0,-40.0,Weak Sell Signal,0.06,0.04,0.02,1.09,48.66,Target Volume,Expected Range,43.35,Strong Trend
@@ -93,9 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-04-12,0.07,0.07,0.07,0.07,0,0.0,0.0,0.0,0.0,0.0,0.04,0.05,0.01,0.01,-0.0,425388,1.03,83.33,13.33,1.0,70.0,Strong Buy Signal,0.09,0.04,-0.01,2.48,54.3,Target Volume,Expected Range,28.03,Strong Trend
 2023-04-11,0.1,0.1,0.07,0.07,3782,-0.03,0.03,-36.34,36.48,0.01,0.04,0.05,0.01,0.01,-0.0,425388,1.03,85.0,15.0,1.0,70.0,Strong Buy Signal,0.09,0.04,-0.01,2.51,54.3,Target Volume,Expected Range,28.49,Strong Trend
 2023-04-10,0.04,0.07,0.04,0.07,3717,0.03,0.03,41.08,46.93,0.02,0.04,0.05,0.01,0.01,-0.0,421606,6.59,86.67,16.67,1.0,70.0,Strong Buy Signal,0.09,0.04,-0.01,2.54,53.81,Target Volume,Expected Range,28.96,Strong Trend
-2023-04-06,0.08,0.08,0.05,0.05,150217,-0.03,0.03,-56.86,56.86,0.01,0.04,0.05,0.01,0.01,-0.0,417889,3.84,88.33,18.33,1.0,70.0,Strong Buy Signal,0.09,0.04,-0.01,2.57,50.6,Target Volume,Expected Range,29.34,Strong Trend
-2023-04-05,0.1,0.1,0.08,0.08,2331,-0.02,0.02,-29.56,29.56,0.01,0.04,0.05,0.01,0.01,0.0,568106,4.18,90.0,20.0,1.0,70.0,Strong Buy Signal,0.08,0.04,-0.01,2.61,55.74,Target Volume,Expected Range,29.77,Strong Trend
-2023-04-04,0.08,0.1,0.04,0.08,21721,-0.0,0.06,-1.65,72.17,0.03,0.04,0.05,0.02,0.01,0.0,570437,4.18,91.67,21.67,1.0,70.0,Strong Buy Signal,0.08,0.04,-0.01,2.63,56.15,Target Volume,Expected Range,30.2,Strong Trend
-2023-04-03,0.08,0.09,0.08,0.09,698,0.01,0.01,8.97,8.97,0.0,0.04,0.04,0.02,0.01,0.0,592158,17.79,93.33,23.33,1.0,70.0,Strong Buy Signal,0.08,0.04,-0.01,2.63,58.26,Target Volume,Expected Range,30.64,Strong Trend
-2023-03-31,0.09,0.09,0.09,0.09,100,0.0,0.0,0.0,0.0,0.0,0.03,0.04,0.02,0.01,0.0,592856,21.94,95.0,25.0,1.0,70.0,Strong Buy Signal,0.08,0.03,-0.01,2.6,58.69,Target Volume,Expected Range,30.86,Strong Trend
-2023-03-30,0.09,0.1,0.09,0.1,10200,0.01,0.01,10.0,10.0,0.01,0.03,0.04,0.02,0.01,0.0,592956,21.94,96.67,26.67,1.0,70.0,Strong Buy Signal,0.07,0.03,-0.01,2.53,61.06,Trending Low,Bearish Trend,31.01,Strong Trend
